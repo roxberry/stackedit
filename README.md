@@ -19,7 +19,7 @@ https://stackedit.io/
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:9876
 npm start
 
 # build for production with minification
